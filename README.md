@@ -4,7 +4,7 @@ This project performs an in-depth descriptive statistical analysis on the Medica
 
 
 
-## 📁 Dataset
+## Dataset
 - **Source**: [Kaggle – Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - **Size**: 1338 records
 - **Features**:
@@ -16,9 +16,9 @@ This project performs an in-depth descriptive statistical analysis on the Medica
   - `region`: Residential region
   - `charges`: Medical insurance cost (target variable)
 
----
 
-## 🎯 Objectives
+
+## Objectives
 
 - Understand the types of data (numerical vs categorical)
 - Calculate key descriptive statistics:
@@ -28,9 +28,8 @@ This project performs an in-depth descriptive statistical analysis on the Medica
 - Grouped analysis (e.g., charges by smoking status or gender)
 - Visualize data using plots like histograms, boxplots, scatterplots
 
----
 
-## 🛠️ Technologies Used
+### Technologies Used
 
 - **Python**
 - **Jupyter Notebook**
